@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FamilyTime 2</string>
+    <string name="title_calorie">Calories burnt today</string>
+    <string name="title_walks">Steps taken today</string>
+    <string name="title_statistics">Activity Report</string>
+    <string name="title_month">Month</string>
+    <string name="title_day">Day</string>
+    <string name="title_hour">Hour</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

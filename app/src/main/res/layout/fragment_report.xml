@@ -127,6 +127,20 @@
 
 
         <!-- Seperator -->
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Check In"
+            android:onClick="checkinBtnClicked"
+            android:id="@+id/checkinButton" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Number of visits this month: 0"
+            android:id="@+id/textView" />
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="1dip"
